@@ -15,5 +15,5 @@ Output:
 ![Harris Corner Detection](corners_window.jpg)
 ![NCC Correspondences](CorrepondencespreHomography.jpg)
 ![After RANSAC](CorrepondencespostHomography.jpg)
-![stiched_Image](stiched image.jpg)
+![stiched_image](stiched image.jpg)
 ![Homography on image](just_homography.jpg)
